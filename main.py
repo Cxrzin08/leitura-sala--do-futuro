@@ -2,7 +2,7 @@ import random
 import pyautogui as pt
 import time
 
-time.sleep(4)
+time.sleep(10)
 
 pt.PAUSE = 0.3
 
